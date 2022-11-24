@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/material_dynamic_neutral40"
                 android:clickable="true"
-                android:drawableLeft="@mipmap/glasses_foreground"
+                android:drawableLeft="@mipmap/phone_foreground"
                 android:text="iPhone 14 Pro" />
 
             <Button
@@ -66,7 +66,7 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/material_dynamic_neutral40"
                 android:clickable="true"
-                android:drawableLeft="@mipmap/glasses_foreground"
+                android:drawableLeft="@mipmap/mouse_foreground"
                 android:text="Mouse" />
 
             <Button
@@ -75,7 +75,7 @@
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/material_dynamic_neutral40"
                 android:clickable="true"
-                android:drawableLeft="@mipmap/glasses_foreground"
+                android:drawableLeft="@mipmap/pc_foreground"
                 android:text="PC" />
 
         </LinearLayout>
