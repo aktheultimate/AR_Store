@@ -32,6 +32,8 @@
         </activity>
         <activity android:name=".glassAR" />
         <activity android:name=".displayAR"/>
+        <activity android:name=".HeadphoneAR"/>
+        <activity android:name=".hatAR"/>
         <meta-data
             android:name="com.google.ar.core"
             android:value="optional" />
